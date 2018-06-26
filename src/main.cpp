@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <iostream>
-#include <ctime>
+#include <time.h>
 #include <vector>
+#include <stdlib.h>
 #include <string.h>
 
 #define N 100
