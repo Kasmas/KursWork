@@ -14,7 +14,7 @@ struct word {
 	char rusWord[N];
 };
 
-int inputFile(char *nameFile, vector<word> &list)
+void inputFile(char *nameFile, vector<word> &list)
 {
 	FILE *fp;
 	fopen_s(&fp, nameFile, "r");
