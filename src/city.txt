@@ -1,0 +1,11 @@
+city-город
+house-дом
+building-здание
+place-место
+entrance-вход
+exit-выход
+center-центр
+yard-двор
+roof-крыша
+fence-забор
+land-земля

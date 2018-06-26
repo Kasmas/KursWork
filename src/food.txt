@@ -1,0 +1,10 @@
+food-еда
+bread-хлеб
+butter-масло
+oil-растительное масло
+cheese-сыр
+sausage-колбаса
+ham-ветчина
+meat-мясо
+beef-говядина
+pork-свинина
