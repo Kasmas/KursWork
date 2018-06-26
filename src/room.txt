@@ -1,0 +1,10 @@
+flat-квартира
+room-комната
+living room-зал
+bedroom-спальня
+bathroom-ванная
+shower-душ
+toilet-туалет
+kitchen-кухня
+hall-коридор
+balcony-балкон
